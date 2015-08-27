@@ -1,0 +1,63 @@
+html, body, div
+{
+	margin: 0 auto;
+	padding: 0;
+}
+
+#wrapper
+{
+	width: 950px;
+	height: 1000px;
+	padding: 30px;
+}
+
+#header
+{
+	height: 30px;
+	padding-bottom: 30px;
+	border-bottom: solid 30px;
+	border-color: #006699;
+
+}
+
+h1
+{
+	font-family: Helvetica;
+	font-weight: 100;
+	color: #005b97;
+
+}
+
+.content
+{
+	font-family: Helvetica;
+	font-weight: 100;
+	line-height: 180%;
+}
+
+.overall-padding
+{
+	padding-left: 10px;
+}
+
+.text-padding
+{
+	padding-left: 10px;
+	padding-right: 320px;
+}
+
+.buisness-size
+{
+	width: 400px;
+	height: 125px;
+	background-color: #005b97;
+	padding: 10px;
+	float: left;
+}
+
+.box-text
+{
+	font-family: Helvetica;
+	color: white;
+	font-size: 
+}
